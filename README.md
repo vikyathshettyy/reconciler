@@ -1,5 +1,5 @@
-You have been given the code of a purely frontend TODO app
-You have to fill in the following functions - 
+The project contains a TodoList implementation where users can add new todos and update existing ones 
+The reconciler implementation has 4 functions.
  - addTodoToDom
  - removeTodoFromDom
  - updateTodoInDom
